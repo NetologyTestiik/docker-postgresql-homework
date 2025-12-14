@@ -2,6 +2,7 @@
 
 ## Задача №1: PostgreSQL
 
+<img width="1149" height="665" alt="image" src="https://github.com/user-attachments/assets/fa93c3cf-3728-4999-b11b-4266a3e97ab8" />
 
-<img width="1192" height="688" alt="image" src="https://github.com/user-attachments/assets/f88c1e2b-4754-4335-aba2-6b9d5c35cfc7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47d8f256-9b73-42c9-a840-62c3d0b980fe" />
 
